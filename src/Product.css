@@ -12,6 +12,14 @@
     min-width: 100px;
 }
 
+.rating__para{
+    color: rgb(120, 113, 218);
+}
+
+.product__rating{
+    display: flex;
+}
+
 .product__info{
     height: 100px;
     margin-bottom: 15px;
