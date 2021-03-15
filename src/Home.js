@@ -8,7 +8,6 @@ function Home() {
             <div className="home__container">
                 <img className="home__image" src="https://m.media-amazon.com/images/G/31/AmazonVideo/2019/1102620_MLP_1440x675_apv189_V3._SY1200_FMJPG_.jpg" alt="Prime Banner"/>
 
-                <div className="wrap__home">
                 <div className="home__row">
                     <Product 
                     title="Ikigai: The Japanese secret to a long and happy life"
@@ -47,7 +46,6 @@ function Home() {
                     price={35000}
                     images="https://m.media-amazon.com/images/I/71S9dis6PRL._AC_UY218_.jpg"
                     rating={5}/>
-                </div>
                 </div>
             </div>
         </div>
